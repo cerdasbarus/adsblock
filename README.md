@@ -1,0 +1,2 @@
+# adsblock
+block ads adguard
