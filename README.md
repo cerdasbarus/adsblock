@@ -7,8 +7,9 @@
 ||googleadservices.com^
 
 !   > Media.net^
-||me.dia.net^
-
+||static.media.net^
+||media.net^
+||adservetx.media.net
 !   > Doubleclick.net^
 ||doubleclick.net^
 
