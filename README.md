@@ -106,8 +106,6 @@
 !   > Stats WP Plugin
 ||stats.wp.com^
 
-!   > !   > Error Trackers ====================
-
 !   > Bugsnag
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
@@ -236,24 +234,3 @@
 !   > Sentry
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-||^
-
