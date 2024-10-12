@@ -158,13 +158,6 @@
 ||ads.youtube.com^
 ||youtube.cleverads.vn^
 
-!   > !   > Mix ====================
-!   >  Yahoo
-
-!   >  Yandex
-
-!   > !   > OEM ====================
-
 !   > Rea.me^
 ||bdapi-in-ads.rea.me.mobile.com^
 
@@ -233,3 +226,8 @@
 ||books-analytics-events.apple.com^
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
+
+||ads30.adcolony.com^
+||adc3-launch.adcolony.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
