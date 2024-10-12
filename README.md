@@ -226,7 +226,7 @@
 ||books-analytics-events.apple.com^
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
-
+!   > Adcolony
 ||ads30.adcolony.com^
 ||adc3-launch.adcolony.com^
 ||events3alt.adcolony.com^
