@@ -59,22 +59,22 @@
 ||banners-slb.mobile.yandex.net^
 ||startup.mobile.yandex.net^
 ||offerwall.yandex.net^
-||adfox.yandex.ru
-||adsdk.yandex.ru
-||an.yandex.ru
-||redirect.ap.me^trica.yandex.ru
-||awaps.yandex.ru
-||awsync.yandex.ru
-||bs.yandex.ru
-||bs.me^ta.yandex.ru
-||clck.yandex.ru
-||info.me^r.yandex.ru
-||kiks.yandex.ru
+||adfox.yandex.ru^
+||adsdk.yandex.ru^
+||an.yandex.ru^
+||redirect.ap.me^trica.yandex.ru^
+||awaps.yandex.ru^
+||awsync.yandex.ru^
+||bs.yandex.ru^
+||bs.me^ta.yandex.ru^
+||clck.yandex.ru^
+||info.me^r.yandex.ru^
+||kiks.yandex.ru^
 ||grade.market.yandex.ru
-||mc.yandex.ru
-||.me^trika.yandex.ru
-||click.sender.yandex.ru
-||share.yandex.ru
+||mc.yandex.ru^
+||appmetrica.yandex.ru^
+||click.sender.yandex.ru^
+||share.yandex.ru^
 ||yandexadexchange.net^
 
 !   > Google Analytics
@@ -88,6 +88,8 @@
 !   > MouseFlow
 ||mouseflow.com^
 ||a.mouseflow.com^
+||tools.mouseflow.com^
+||o2.mouseflow.com^
 
 !   > FreshMarketer
 ||freshmarketer.com^
@@ -115,8 +117,6 @@
 !   > Sentry
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
-
-!   > !   > Social ====================
 
 !   > Facebook
 ||pixel.facebook.com^
@@ -231,3 +231,29 @@
 ||adc3-launch.adcolony.com^
 ||events3alt.adcolony.com^
 ||wd.adcolony.com^
+!   > Stats WP Plugin
+||stats.wp.com^
+!   > Sentry
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+||^
+
